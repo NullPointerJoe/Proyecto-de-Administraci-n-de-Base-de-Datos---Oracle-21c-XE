@@ -1,5 +1,3 @@
-# Administración de Bases de Datos
-
 # Proyecto de Administración de Base de Datos - Oracle 21c XE
 
 ## Descripción
